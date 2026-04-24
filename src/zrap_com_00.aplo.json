@@ -1,0 +1,290 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Application Log Object: ZRAP_COM_00",
+    "originalLanguage": "ja",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "subobjects": [
+    {
+      "name": "ZRAP_IF_CI901",
+      "description": "ZRAP_IF_CI901"
+    },
+    {
+      "name": "ZRAP_IF_CI902",
+      "description": "ZRAP_IF_CI902"
+    },
+    {
+      "name": "ZRAP_IF_CI903",
+      "description": "ZRAP_IF_CI903"
+    },
+    {
+      "name": "ZRAP_IF_CI904",
+      "description": "ZRAP_IF_CI904"
+    },
+    {
+      "name": "ZRAP_IF_CI905",
+      "description": "ZRAP_IF_CI905"
+    },
+    {
+      "name": "ZRAP_IF_CI906",
+      "description": "ZRAP_IF_CI906"
+    },
+    {
+      "name": "ZRAP_IF_FI901",
+      "description": "ZRAP_IF_FI901"
+    },
+    {
+      "name": "ZRAP_IF_MI901",
+      "description": "ZRAP_IF_MI901"
+    },
+    {
+      "name": "ZRAP_IF_MI902",
+      "description": "ZRAP_IF_MI902"
+    },
+    {
+      "name": "ZRAP_IF_MI903",
+      "description": "ZRAP_IF_MI903"
+    },
+    {
+      "name": "ZRAP_IF_MI904",
+      "description": "ZRAP_IF_MI904"
+    },
+    {
+      "name": "ZRAP_IF_MI905",
+      "description": "ZRAP_IF_MI905"
+    },
+    {
+      "name": "ZRAP_IF_MI906",
+      "description": "ZRAP_IF_MI906"
+    },
+    {
+      "name": "ZRAP_IF_PI902",
+      "description": "ZRAP_IF_PI902"
+    },
+    {
+      "name": "ZRAP_IF_PI903",
+      "description": "ZRAP_IF_PI903"
+    },
+    {
+      "name": "ZRAP_IF_PI904",
+      "description": "ZRAP_IF_PI904"
+    },
+    {
+      "name": "ZRAP_IF_PI905",
+      "description": "ZRAP_IF_PI905"
+    },
+    {
+      "name": "ZRAP_IF_PI907",
+      "description": "ZRAP_IF_PI907"
+    },
+    {
+      "name": "ZRAP_IF_PI908",
+      "description": "ZRAP_IF_PI908"
+    },
+    {
+      "name": "ZRAP_IF_PI909",
+      "description": "ZRAP_IF_PI909"
+    },
+    {
+      "name": "ZRAP_IF_PI910",
+      "description": "ZRAP_IF_PI910"
+    },
+    {
+      "name": "ZRAP_IF_PI911",
+      "description": "ZRAP_IF_PI911"
+    },
+    {
+      "name": "ZRAP_IF_PI912",
+      "description": "ZRAP_IF_PI912"
+    },
+    {
+      "name": "ZRAP_IF_PI913",
+      "description": "ZRAP_IF_PI913"
+    },
+    {
+      "name": "ZRAP_IF_PI914",
+      "description": "ZRAP_IF_PI914"
+    },
+    {
+      "name": "ZRAP_IF_PI915",
+      "description": "ZRAP_IF_PI915"
+    },
+    {
+      "name": "ZRAP_IF_PI916",
+      "description": "ZRAP_IF_PI916"
+    },
+    {
+      "name": "ZRAP_IF_PI917",
+      "description": "ZRAP_IF_PI917"
+    },
+    {
+      "name": "ZRAP_IF_PI918",
+      "description": "ZRAP_IF_PI918"
+    },
+    {
+      "name": "ZRAP_IF_PI919",
+      "description": "ZRAP_IF_PI919"
+    },
+    {
+      "name": "ZRAP_IF_PI920",
+      "description": "ZRAP_IF_PI920"
+    },
+    {
+      "name": "ZRAP_IF_PI921",
+      "description": "ZRAP_IF_PI921"
+    },
+    {
+      "name": "ZRAP_IF_PI922",
+      "description": "ZRAP_IF_PI922"
+    },
+    {
+      "name": "ZRAP_IF_PI923",
+      "description": "ZRAP_IF_PI923"
+    },
+    {
+      "name": "ZRAP_IF_PI924",
+      "description": "ZRAP_IF_PI924"
+    },
+    {
+      "name": "ZRAP_IF_PI925",
+      "description": "ZRAP_IF_PI925"
+    },
+    {
+      "name": "ZRAP_IF_PI929",
+      "description": "ZRAP_IF_PI929"
+    },
+    {
+      "name": "ZRAP_IF_PI930",
+      "description": "ZRAP_IF_PI930"
+    },
+    {
+      "name": "ZRAP_IF_VI901",
+      "description": "ZRAP_IF_VI901"
+    },
+    {
+      "name": "ZRAP_IF_VI910",
+      "description": "ZRAP_IF_VI910"
+    },
+    {
+      "name": "ZRAP_IF_VI912",
+      "description": "ZRAP_IF_VI912"
+    },
+    {
+      "name": "ZRAP_IF_VI913",
+      "description": "ZRAP_IF_VI913"
+    },
+    {
+      "name": "ZRAP_IF_VI914",
+      "description": "ZRAP_IF_VI914"
+    },
+    {
+      "name": "ZRAP_IF_YI911",
+      "description": "ZRAP_IF_YI911"
+    },
+    {
+      "name": "ZRAP_IF_YI926",
+      "description": "ZRAP_IF_YI926"
+    },
+    {
+      "name": "ZRAP_IF_YI927",
+      "description": "ZRAP_IF_YI927"
+    },
+    {
+      "name": "ZRAP_IF_YI928",
+      "description": "ZRAP_IF_YI928"
+    },
+    {
+      "name": "ZRAP_IF_YI929",
+      "description": "ZRAP_IF_YI929"
+    },
+    {
+      "name": "ZRAP_IF_YI930",
+      "description": "ZRAP_IF_YI930"
+    },
+    {
+      "name": "ZRAP_IF_YI931",
+      "description": "ZRAP_IF_YI931"
+    },
+    {
+      "name": "ZRAP_IF_YI932",
+      "description": "ZRAP_IF_YI932"
+    },
+    {
+      "name": "ZRAP_IF_YI933",
+      "description": "ZRAP_IF_YI933"
+    },
+    {
+      "name": "ZRAP_IF_YI934",
+      "description": "ZRAP_IF_YI934"
+    },
+    {
+      "name": "ZRAP_IF_YI935",
+      "description": "ZRAP_IF_YI935"
+    },
+    {
+      "name": "ZRAP_IF_YI936",
+      "description": "ZRAP_IF_YI936"
+    },
+    {
+      "name": "ZRAP_IF_YI937",
+      "description": "ZRAP_IF_YI937"
+    },
+    {
+      "name": "ZRAP_IF_YI938",
+      "description": "ZRAP_IF_YI938"
+    },
+    {
+      "name": "ZRAP_IF_YI939",
+      "description": "ZRAP_IF_YI939"
+    },
+    {
+      "name": "ZRAP_IF_YI942",
+      "description": "ZRAP_IF_YI942"
+    },
+    {
+      "name": "ZRAP_IF_YI943",
+      "description": "ZRAP_IF_YI943"
+    },
+    {
+      "name": "ZRAP_IF_YI944",
+      "description": "ZRAP_IF_YI944"
+    },
+    {
+      "name": "ZRAP_IF_YI946",
+      "description": "ZRAP_IF_YI946"
+    },
+    {
+      "name": "ZRAP_IF_YI947",
+      "description": "ZRAP_IF_YI947"
+    },
+    {
+      "name": "ZRAP_IF_YI948",
+      "description": "ZRAP_IF_YI948"
+    },
+    {
+      "name": "ZRAP_IF_YI949",
+      "description": "ZRAP_IF_YI949"
+    },
+    {
+      "name": "ZRAP_IF_YI950",
+      "description": "ZRAP_IF_YI950"
+    },
+    {
+      "name": "ZRAP_IF_YI951",
+      "description": "ZRAP_IF_YI951"
+    },
+    {
+      "name": "ZRAP_IF_YI952",
+      "description": "ZRAP_IF_YI952"
+    },
+    {
+      "name": "ZRAP_IF_YI953",
+      "description": "ZRAP_IF_YI953"
+    },
+    {
+      "name": "ZRAP_IF_YI954",
+      "description": "ZRAP_IF_YI954"
+    }
+  ]
+}

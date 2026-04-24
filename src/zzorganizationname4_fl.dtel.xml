@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZZORGANIZATIONNAME4_FL</ROLLNAME>
+    <DDLANGUAGE>J</DDLANGUAGE>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>固定仕入先 名称4</DDTEXT>
+    <REPTEXT>固定サプライヤ 名称4</REPTEXT>
+    <SCRTEXT_S>固定サプライヤ名称4</SCRTEXT_S>
+    <SCRTEXT_M>固定サプライヤ 名称4</SCRTEXT_M>
+    <SCRTEXT_L>固定サプライヤ 名称4</SCRTEXT_L>
+    <DTELMASTER>J</DTELMASTER>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000040</LENG>
+    <OUTPUTLEN>000040</OUTPUTLEN>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>1</LANGU>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>1</DDLANGUAGE>
+     <DDTEXT>固定供应商 姓名4</DDTEXT>
+     <REPTEXT>固定供应商 姓名4</REPTEXT>
+     <SCRTEXT_S>固定供应商 姓名4</SCRTEXT_S>
+     <SCRTEXT_M>固定供应商 姓名4</SCRTEXT_M>
+     <SCRTEXT_L>固定供应商 姓名4</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Fixed Supplier Name4</DDTEXT>
+     <REPTEXT>Fixed Supplier Name4</REPTEXT>
+     <SCRTEXT_S>Fixed Supp</SCRTEXT_S>
+     <SCRTEXT_M>Fixed Supplier Name4</SCRTEXT_M>
+     <SCRTEXT_L>Fixed Supplier Name4</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

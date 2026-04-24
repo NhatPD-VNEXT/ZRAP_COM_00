@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZRAP_COM_00</ARBGB>
+    <MASTERLANG>J</MASTERLANG>
+    <STEXT>Cloud共通_メッセージクラス</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>&amp;1 &amp;2 は存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>明細 &amp;1 の &amp;2 &amp;3 は存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>EAI実行エラー。 設定デリミタ文字が不正です</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>EAI実行エラー。 呼び出すスクリプトのサービスが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>SVF実行エラー。 &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>ジョブの実行を開始しました ジョブ名：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>データの取得を開始しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>データ取得が完了しました 取得件数：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>データ取得に失敗しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>データ出力を開始しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>データ出力が成功しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>データ出力中にエラーが発生しました エラー内容：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>ログモニタへの書き込みを開始しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>ログモニタへの書き込みが完了しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>ログモニタへの書き込み中にエラーが発生しました エラー内容：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>ジョブがエラーにより異常終了しました エラー内容：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>ジョブが正常に完了しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>出力処理が正常に終了しました &amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>外部システム呼出時にエラーが発生しました &amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>EAI実行エラー。 ディレクトリパスの設定が誤っています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>EAI実行エラー。 設定したディレクトリパスが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>エラーが発生し、ジョブが正常に完了しませんでした</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>取込ファイルが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>HTTPステータスコードが200以外です ステータスコード：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>ディレクトリパスの設定がされていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>検索条件に該当するデータがありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>除外フラグが全て選択されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>&amp;1 送信件数 &amp;2 件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>通信エラーのため再処理を行いました &amp;1回 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>処理時にエラーが発生しました &amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_00</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>呼び出したスクリプトでエラーが発生しました</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

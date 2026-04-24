@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZZTYPENAME</ROLLNAME>
+    <DDLANGUAGE>J</DDLANGUAGE>
+    <DOMNAME>ZZCHAR40_CS</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>種別名称(用途)</DDTEXT>
+    <REPTEXT>種別名称(用途)</REPTEXT>
+    <SCRTEXT_S>種別名称(用途)</SCRTEXT_S>
+    <SCRTEXT_M>種別名称(用途)</SCRTEXT_M>
+    <SCRTEXT_L>種別名称(用途)</SCRTEXT_L>
+    <DTELMASTER>J</DTELMASTER>
+    <REFKIND>D</REFKIND>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

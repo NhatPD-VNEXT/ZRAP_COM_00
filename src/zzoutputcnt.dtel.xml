@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZZOUTPUTCNT</ROLLNAME>
+    <DDLANGUAGE>J</DDLANGUAGE>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>出力件数</DDTEXT>
+    <REPTEXT>出力件数</REPTEXT>
+    <SCRTEXT_S>出力件数</SCRTEXT_S>
+    <SCRTEXT_M>出力件数</SCRTEXT_M>
+    <SCRTEXT_L>出力件数</SCRTEXT_L>
+    <DTELMASTER>J</DTELMASTER>
+    <DATATYPE>INT4</DATATYPE>
+    <LENG>000010</LENG>
+    <OUTPUTLEN>000011</OUTPUTLEN>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>1</LANGU>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>1</DDLANGUAGE>
+     <DDTEXT>输出数量</DDTEXT>
+     <REPTEXT>输出数量</REPTEXT>
+     <SCRTEXT_S>输出数量</SCRTEXT_S>
+     <SCRTEXT_M>输出数量</SCRTEXT_M>
+     <SCRTEXT_L>输出数量</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Number of out items</DDTEXT>
+     <REPTEXT>Number of out items</REPTEXT>
+     <SCRTEXT_S>Number of</SCRTEXT_S>
+     <SCRTEXT_M>Number of out items</SCRTEXT_M>
+     <SCRTEXT_L>Number of out items</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
